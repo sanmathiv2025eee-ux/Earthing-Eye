@@ -1,0 +1,6 @@
+{
+  "name": "EARTHGUARD - Industrial Earth Resistance Monitoring Platform",
+  "description": "Professional-grade industrial IoT platform for real-time electrical earth resistance monitoring, ESP32 telemetry ingestion, IEEE/IEC compliance verification, alarm dispatch, and field commissioning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
